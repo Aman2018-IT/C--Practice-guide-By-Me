@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oaoGXUieJkNC7qVMGh8oNE7GKL23YnRCxFFf4L+0rUev27bVhbt4GDixAXG01aUQAPuRxhO+pie37PGa1ukWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tecnomic\\Desktop\\Office-Data\\Practice\\GLHMenuPolicyInfo\\GLHMenuPolicyInfo\\GLHMenuPolicyInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tecnomic\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\tecnomic\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\tecnomic\\.nuget\\packages\\awssdk.core\\3.7.204.5\\awssdk.core.3.7.204.5.nupkg.sha512",
+    "C:\\Users\\tecnomic\\.nuget\\packages\\awssdk.secretsmanager\\3.7.201.43\\awssdk.secretsmanager.3.7.201.43.nupkg.sha512",
+    "C:\\Users\\tecnomic\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.23\\microsoft.netcore.app.crossgen2.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

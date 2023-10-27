@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\bin\Debug\net6.0\IEnumerator.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\bin\Debug\net6.0\IEnumerator.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\bin\Debug\net6.0\IEnumerator.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\bin\Debug\net6.0\IEnumerator.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\bin\Debug\net6.0\IEnumerator.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\refint\IEnumerator.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\IEnumerator.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\IEnumerator\IEnumerator\obj\Debug\net6.0\ref\IEnumerator.dll

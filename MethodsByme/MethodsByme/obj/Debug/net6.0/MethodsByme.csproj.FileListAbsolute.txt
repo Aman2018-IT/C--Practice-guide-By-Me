@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\bin\Debug\net6.0\MethodsByme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\bin\Debug\net6.0\MethodsByme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\bin\Debug\net6.0\MethodsByme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\bin\Debug\net6.0\MethodsByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\bin\Debug\net6.0\MethodsByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\refint\MethodsByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\MethodsByme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MethodsByme\MethodsByme\obj\Debug\net6.0\ref\MethodsByme.dll

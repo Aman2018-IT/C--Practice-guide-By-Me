@@ -1,0 +1,11 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\bin\Debug\net6.0\HrAdminstrationApi.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\bin\Debug\net6.0\HrAdminstrationApi.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\bin\Debug\net6.0\HrAdminstrationApi.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\HrAdminstrationApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\HrAdminstrationApi.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\HrAdminstrationApi.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\HrAdminstrationApi.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\HrAdminstrationApi.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\refint\HrAdminstrationApi.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\HrAdminstrationApi.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\SchoolHRAdminstration\HrAdminstrationApi\obj\Debug\net6.0\ref\HrAdminstrationApi.dll

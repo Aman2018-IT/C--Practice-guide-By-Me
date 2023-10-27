@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\bin\Debug\net6.0\ArraysByme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\bin\Debug\net6.0\ArraysByme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\bin\Debug\net6.0\ArraysByme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\bin\Debug\net6.0\ArraysByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\bin\Debug\net6.0\ArraysByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\refint\ArraysByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ArraysByme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ArraysByme\ArraysByme\obj\Debug\net6.0\ref\ArraysByme.dll

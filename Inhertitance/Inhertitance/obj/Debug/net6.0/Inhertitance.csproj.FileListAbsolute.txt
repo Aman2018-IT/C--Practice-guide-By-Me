@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\bin\Debug\net6.0\Inhertitance.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\bin\Debug\net6.0\Inhertitance.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\bin\Debug\net6.0\Inhertitance.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\bin\Debug\net6.0\Inhertitance.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\bin\Debug\net6.0\Inhertitance.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\refint\Inhertitance.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\Inhertitance.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Inhertitance\Inhertitance\obj\Debug\net6.0\ref\Inhertitance.dll

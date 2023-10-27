@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\bin\Debug\net6.0\EnumeratorByme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\bin\Debug\net6.0\EnumeratorByme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\bin\Debug\net6.0\EnumeratorByme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\bin\Debug\net6.0\EnumeratorByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\bin\Debug\net6.0\EnumeratorByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\refint\EnumeratorByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\EnumeratorByme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\EnumeratorByme\EnumeratorByme\obj\Debug\net6.0\ref\EnumeratorByme.dll

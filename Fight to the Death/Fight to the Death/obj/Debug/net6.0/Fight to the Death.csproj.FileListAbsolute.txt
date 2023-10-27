@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\bin\Debug\net6.0\Fight to the Death.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\bin\Debug\net6.0\Fight to the Death.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\bin\Debug\net6.0\Fight to the Death.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\bin\Debug\net6.0\Fight to the Death.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\bin\Debug\net6.0\Fight to the Death.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\refint\Fight to the Death.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\Fight to the Death.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Fight to the Death\Fight to the Death\obj\Debug\net6.0\ref\Fight to the Death.dll

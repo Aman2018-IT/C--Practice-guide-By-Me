@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\bin\Debug\net6.0\Classes and Objects in c#.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\bin\Debug\net6.0\Classes and Objects in c#.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\bin\Debug\net6.0\Classes and Objects in c#.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\bin\Debug\net6.0\Classes and Objects in c#.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\bin\Debug\net6.0\Classes and Objects in c#.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\refint\Classes and Objects in c#.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\Classes and Objects in c#.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and Objects in c#\Classes and Objects in c#\obj\Debug\net6.0\ref\Classes and Objects in c#.dll

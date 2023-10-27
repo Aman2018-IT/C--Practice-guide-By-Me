@@ -1,0 +1,7 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\bin\Debug\ConsoleApppractice.exe.config
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\bin\Debug\ConsoleApppractice.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\bin\Debug\ConsoleApppractice.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\obj\Debug\ConsoleApppractice.csproj.AssemblyReference.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\obj\Debug\ConsoleApppractice.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\obj\Debug\ConsoleApppractice.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConsoleApppractice\ConsoleApppractice\obj\Debug\ConsoleApppractice.pdb

@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\bin\Debug\net6.0\Zip.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\bin\Debug\net6.0\Zip.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\bin\Debug\net6.0\Zip.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\bin\Debug\net6.0\Zip.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\bin\Debug\net6.0\Zip.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\refint\Zip.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\Zip.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Zip\Zip\obj\Debug\net6.0\ref\Zip.dll

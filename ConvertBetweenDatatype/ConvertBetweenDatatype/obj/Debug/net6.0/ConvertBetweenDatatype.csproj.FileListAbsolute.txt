@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\bin\Debug\net6.0\ConvertBetweenDatatype.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\bin\Debug\net6.0\ConvertBetweenDatatype.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\bin\Debug\net6.0\ConvertBetweenDatatype.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\bin\Debug\net6.0\ConvertBetweenDatatype.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\bin\Debug\net6.0\ConvertBetweenDatatype.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\refint\ConvertBetweenDatatype.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ConvertBetweenDatatype.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ConvertBetweenDatatype\ConvertBetweenDatatype\obj\Debug\net6.0\ref\ConvertBetweenDatatype.dll

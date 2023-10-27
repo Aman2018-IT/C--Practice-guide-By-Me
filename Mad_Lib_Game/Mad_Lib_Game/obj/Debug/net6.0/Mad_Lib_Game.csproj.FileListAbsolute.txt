@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\bin\Debug\net6.0\Mad_Lib_Game.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\bin\Debug\net6.0\Mad_Lib_Game.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\bin\Debug\net6.0\Mad_Lib_Game.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\bin\Debug\net6.0\Mad_Lib_Game.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\bin\Debug\net6.0\Mad_Lib_Game.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\refint\Mad_Lib_Game.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\Mad_Lib_Game.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Mad_Lib_Game\Mad_Lib_Game\obj\Debug\net6.0\ref\Mad_Lib_Game.dll

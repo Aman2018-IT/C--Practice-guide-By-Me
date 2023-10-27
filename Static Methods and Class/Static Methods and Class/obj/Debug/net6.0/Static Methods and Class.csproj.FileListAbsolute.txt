@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\bin\Debug\net6.0\Static Methods and Class.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\bin\Debug\net6.0\Static Methods and Class.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\bin\Debug\net6.0\Static Methods and Class.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\bin\Debug\net6.0\Static Methods and Class.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\bin\Debug\net6.0\Static Methods and Class.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\refint\Static Methods and Class.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\Static Methods and Class.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Methods and Class\Static Methods and Class\obj\Debug\net6.0\ref\Static Methods and Class.dll

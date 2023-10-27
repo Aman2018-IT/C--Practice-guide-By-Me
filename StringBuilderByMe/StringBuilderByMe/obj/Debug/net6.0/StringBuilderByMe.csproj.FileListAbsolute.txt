@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\bin\Debug\net6.0\StringBuilderByMe.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\bin\Debug\net6.0\StringBuilderByMe.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\bin\Debug\net6.0\StringBuilderByMe.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\bin\Debug\net6.0\StringBuilderByMe.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\bin\Debug\net6.0\StringBuilderByMe.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\refint\StringBuilderByMe.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\StringBuilderByMe.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\StringBuilderByMe\StringBuilderByMe\obj\Debug\net6.0\ref\StringBuilderByMe.dll

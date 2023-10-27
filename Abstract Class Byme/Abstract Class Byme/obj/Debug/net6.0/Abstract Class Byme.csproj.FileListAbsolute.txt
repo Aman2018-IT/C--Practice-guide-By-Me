@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\bin\Debug\net6.0\Abstract Class Byme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\bin\Debug\net6.0\Abstract Class Byme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\bin\Debug\net6.0\Abstract Class Byme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\bin\Debug\net6.0\Abstract Class Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\bin\Debug\net6.0\Abstract Class Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\refint\Abstract Class Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\Abstract Class Byme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Abstract Class Byme\Abstract Class Byme\obj\Debug\net6.0\ref\Abstract Class Byme.dll

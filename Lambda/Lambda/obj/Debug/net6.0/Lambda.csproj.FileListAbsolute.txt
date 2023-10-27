@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\bin\Debug\net6.0\Lambda.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\bin\Debug\net6.0\Lambda.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\bin\Debug\net6.0\Lambda.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\bin\Debug\net6.0\Lambda.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Lambda\Lambda\obj\Debug\net6.0\ref\Lambda.dll

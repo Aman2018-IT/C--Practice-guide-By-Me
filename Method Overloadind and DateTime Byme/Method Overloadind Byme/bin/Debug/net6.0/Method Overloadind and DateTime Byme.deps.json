@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Method Overloadind and DateTime Byme/1.0.0": {
+        "runtime": {
+          "Method Overloadind and DateTime Byme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Method Overloadind and DateTime Byme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

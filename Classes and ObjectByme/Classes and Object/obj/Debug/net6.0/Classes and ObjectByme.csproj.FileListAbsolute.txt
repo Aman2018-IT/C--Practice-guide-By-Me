@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\bin\Debug\net6.0\Classes and ObjectByme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\bin\Debug\net6.0\Classes and ObjectByme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\bin\Debug\net6.0\Classes and ObjectByme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\bin\Debug\net6.0\Classes and ObjectByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\bin\Debug\net6.0\Classes and ObjectByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\refint\Classes and ObjectByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\Classes and ObjectByme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Classes and ObjectByme\Classes and Object\obj\Debug\net6.0\ref\Classes and ObjectByme.dll

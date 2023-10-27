@@ -1,0 +1,17 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\bin\Debug\net6.0\MyLambda1.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\bin\Debug\net6.0\MyLambda1.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\bin\Debug\net6.0\MyLambda1.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\bin\Debug\net6.0\MyLambda1.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.csproj.AssemblyReference.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.csproj.CopyComplete
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\refint\MyLambda1.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\MyLambda1.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\MyLambda1\MyLambda1\obj\Debug\net6.0\ref\MyLambda1.dll

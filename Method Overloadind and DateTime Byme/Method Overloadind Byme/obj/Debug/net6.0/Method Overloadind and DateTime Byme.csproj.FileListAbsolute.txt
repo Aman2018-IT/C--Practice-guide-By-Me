@@ -1,0 +1,28 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\refint\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\ref\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind and DateTime Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\refint\Method Overloadind and DateTime Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind and DateTime Byme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind and DateTime Byme\Method Overloadind Byme\obj\Debug\net6.0\ref\Method Overloadind and DateTime Byme.dll

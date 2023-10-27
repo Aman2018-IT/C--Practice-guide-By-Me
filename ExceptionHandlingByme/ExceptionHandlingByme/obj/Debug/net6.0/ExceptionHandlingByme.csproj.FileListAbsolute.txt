@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\bin\Debug\net6.0\ExceptionHandlingByme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\bin\Debug\net6.0\ExceptionHandlingByme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\bin\Debug\net6.0\ExceptionHandlingByme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\bin\Debug\net6.0\ExceptionHandlingByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\bin\Debug\net6.0\ExceptionHandlingByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\refint\ExceptionHandlingByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ExceptionHandlingByme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ExceptionHandlingByme\ExceptionHandlingByme\obj\Debug\net6.0\ref\ExceptionHandlingByme.dll

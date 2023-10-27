@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\bin\Debug\net6.0\Linq2.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\bin\Debug\net6.0\Linq2.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\bin\Debug\net6.0\Linq2.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\bin\Debug\net6.0\Linq2.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\bin\Debug\net6.0\Linq2.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\refint\Linq2.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\Linq2.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Linq2\Linq2\obj\Debug\net6.0\ref\Linq2.dll

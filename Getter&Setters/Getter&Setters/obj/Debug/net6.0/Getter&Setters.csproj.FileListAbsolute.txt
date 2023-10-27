@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\bin\Debug\net6.0\Getter&Setters.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\bin\Debug\net6.0\Getter&Setters.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\bin\Debug\net6.0\Getter&Setters.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\bin\Debug\net6.0\Getter&Setters.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\bin\Debug\net6.0\Getter&Setters.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\refint\Getter&Setters.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\Getter&Setters.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Getter&Setters\Getter&Setters\obj\Debug\net6.0\ref\Getter&Setters.dll

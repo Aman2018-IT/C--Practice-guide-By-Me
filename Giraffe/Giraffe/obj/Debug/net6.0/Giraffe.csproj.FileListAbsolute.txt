@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\bin\Debug\net6.0\Giraffe.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\refint\Giraffe.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\Giraffe.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Giraffe\Giraffe\obj\Debug\net6.0\ref\Giraffe.dll

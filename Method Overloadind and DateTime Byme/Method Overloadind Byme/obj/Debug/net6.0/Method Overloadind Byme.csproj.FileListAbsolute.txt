@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind Byme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind Byme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind Byme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\bin\Debug\net6.0\Method Overloadind Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\refint\Method Overloadind Byme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\Method Overloadind Byme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Method Overloadind Byme\Method Overloadind Byme\obj\Debug\net6.0\ref\Method Overloadind Byme.dll

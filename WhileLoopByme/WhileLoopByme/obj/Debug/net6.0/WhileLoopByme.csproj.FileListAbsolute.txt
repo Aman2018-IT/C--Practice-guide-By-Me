@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\bin\Debug\net6.0\WhileLoopByme.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\bin\Debug\net6.0\WhileLoopByme.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\bin\Debug\net6.0\WhileLoopByme.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\bin\Debug\net6.0\WhileLoopByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\bin\Debug\net6.0\WhileLoopByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\refint\WhileLoopByme.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\WhileLoopByme.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\WhileLoopByme\WhileLoopByme\obj\Debug\net6.0\ref\WhileLoopByme.dll

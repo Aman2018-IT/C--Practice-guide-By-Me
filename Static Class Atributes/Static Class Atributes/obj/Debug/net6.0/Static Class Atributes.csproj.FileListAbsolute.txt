@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\bin\Debug\net6.0\Static Class Atributes.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\bin\Debug\net6.0\Static Class Atributes.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\bin\Debug\net6.0\Static Class Atributes.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\bin\Debug\net6.0\Static Class Atributes.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\bin\Debug\net6.0\Static Class Atributes.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\refint\Static Class Atributes.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\Static Class Atributes.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\Static Class Atributes\Static Class Atributes\obj\Debug\net6.0\ref\Static Class Atributes.dll

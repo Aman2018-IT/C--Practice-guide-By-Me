@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\bin\Debug\net6.0\ifelseBYME.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\bin\Debug\net6.0\ifelseBYME.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\bin\Debug\net6.0\ifelseBYME.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\bin\Debug\net6.0\ifelseBYME.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\bin\Debug\net6.0\ifelseBYME.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\refint\ifelseBYME.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ifelseBYME.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\ifelseBYME\ifelseBYME\obj\Debug\net6.0\ref\ifelseBYME.dll

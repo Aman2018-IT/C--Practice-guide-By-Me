@@ -1,0 +1,14 @@
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\bin\Debug\net6.0\1cSharp.exe
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\bin\Debug\net6.0\1cSharp.deps.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\bin\Debug\net6.0\1cSharp.runtimeconfig.json
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\bin\Debug\net6.0\1cSharp.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\bin\Debug\net6.0\1cSharp.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.AssemblyInfoInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.AssemblyInfo.cs
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.csproj.CoreCompileInputs.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\refint\1cSharp.dll
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.pdb
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\1cSharp.genruntimeconfig.cache
+C:\Users\tecnomic\Desktop\Office-Data\Practice\1cSharp\1cSharp\obj\Debug\net6.0\ref\1cSharp.dll
